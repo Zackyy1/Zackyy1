@@ -124,6 +124,3 @@ Some are better, some are worse. If I was an animal, I'd be a horse 🐴
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
