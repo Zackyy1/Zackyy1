@@ -18,7 +18,7 @@
 
 ## My Skill Set  
 
-Some are better, some are worse. If I was an animal, I'd be a horse.
+Some are better, some are worse. If I was an animal, I'd be a horse 🐴
 
 <table><tr><td valign="top" width="33%">
 
