@@ -1,5 +1,6 @@
-### <div align="center">Hi! I'm Martin, an enthusiastic Frontend Software Engineer 🧠</div>  
+### <div align="left">Hi! I'm Martin, an enthusiastic Frontend Software Engineer 🧠</div>  
   
+<br/>  
 
 - 🔭 Check out my latest & greatest project - [LinkHub](https://linkhub.gg)  
   
