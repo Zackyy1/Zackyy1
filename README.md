@@ -1,4 +1,15 @@
-### <div align="left">Hi! I'm Martin, an enthusiastic Frontend Software Engineer 🧠</div>  
+![Martin (1)](https://user-images.githubusercontent.com/38585862/218874920-7601f4a3-89a8-4c8d-b6c5-488d94b2edab.svg)
+  
+  
+<div align="center">
+<a href="https://github.com/Zackyy1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/martin-goncharov-5666a3199" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
   
 <br/>  
 
@@ -11,7 +22,7 @@
 - ❓ Have you heard of an air freshener that works with telepathy? It makes scents when you think about it.  
   
 
-- ⚡ I'm actually coding every day, just in private repositories.  
+- ⚡ Coding every day.  
   
 
 <br/>  
@@ -81,20 +92,6 @@
 </div>
 
 </td></tr></table>
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Zackyy1" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/martin-goncharov-5666a3199" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
