@@ -5,7 +5,7 @@
 - 🔭 Check out my latest & greatest project - [LinkHub](https://linkhub.gg)  
   
 
-- 🌱 Currently learning new Frontend tech, like Vite, Astro & Svelte  
+- 🌱 Currently learning new Frontend tech, like Vite, Astro & Svelte, as well as Motion Canvas
   
 
 - ❓ Have you heard of an air freshener that works with telepathy? It makes scents when you think about it.  
