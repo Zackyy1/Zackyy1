@@ -13,9 +13,6 @@
   
 <br/>  
 
-- 🔭 Check out my latest & greatest project - [LinkHub](https://linkhub.gg)  
-  
-
 - 🌱 Currently learning new Frontend tech, like Vite, Astro & Svelte, as well as Motion Canvas
   
 
