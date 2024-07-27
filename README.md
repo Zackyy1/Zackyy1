@@ -13,13 +13,13 @@
   
 <br/>  
 
-- 🌱 Currently learning new Frontend tech, like Vite, Astro & Svelte, as well as Motion Canvas
+- 🌱 Coding side-projects for fun
   
 
 - ❓ Have you heard of an air freshener that works with telepathy? It makes scents when you think about it.  
   
 
-- ⚡ Coding every day.  
+- ⚡ Not coding every day. Live your life, folks.  
   
 
 <br/>  
