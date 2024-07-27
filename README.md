@@ -86,7 +86,7 @@
 <br/>  
 
 ## Have a taste  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11179938478&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=e31c1c&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11179938478&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=e31c1c&bar_color_cover=false" /></div>  
 
 <br/>  
 
