@@ -1,6 +1,4 @@
-![Martin (1)](https://user-images.githubusercontent.com/38585862/218874920-7601f4a3-89a8-4c8d-b6c5-488d94b2edab.svg)
-  
-  
+ 
 <div align="center">
 <a href="https://github.com/Zackyy1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
